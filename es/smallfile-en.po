@@ -20,7 +20,7 @@ msgstr "Materiales de la marca AMP"
 
 #: /views/partials/footer.j2:71
 msgid "AMP Conf 2020"
-msgstr ""
+msgstr "2020"
 
 #: /views/partials/footer.j2:72
 msgid "AMP Contributor Summit 2019"
