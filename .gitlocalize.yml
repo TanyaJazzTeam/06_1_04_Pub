@@ -3,4 +3,4 @@ pretranslate:
   - source: .
     include:
       - "advanced_autodiff.ipynb"
-      - "07.09.md"
+      - "localizeble.strings"
